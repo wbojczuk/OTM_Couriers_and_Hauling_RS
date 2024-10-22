@@ -15,7 +15,7 @@ export default function FAQ() {
           {faqElems}
         </div>
 
-        <img src="/img/faq.png" alt="image of packages" className="bg-img" />
+        <img src="/img/faq.webp" alt="image of packages" className="bg-img" />
         <div className="shader" style={{backgroundColor: "rgba(255,255,255,0.5)"}}></div>
     </section>
   )

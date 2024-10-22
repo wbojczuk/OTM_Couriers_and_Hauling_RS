@@ -6,8 +6,7 @@ Decatur GA and surrounding areas.`
     },
     {
         question: "How do I schedule a pickup?",
-        answer: `You can schedule a pickup by calling or texting us, sending over the form, or
-online booking system available on our website.`
+        answer: `You can schedule a pickup by calling, texting us, or sending over the form.`
     },
     {
         question: "What items do you remove?",

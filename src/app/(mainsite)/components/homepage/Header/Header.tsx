@@ -12,7 +12,7 @@ export default function Header() {
 
         <Link href="/contact" className="main-link">Schedule Now</Link>
 
-        <img src="/img/header-bg.png" alt="" className="bg-img" />
+        <img src="/img/header-bg.webp" alt="" className="bg-img" />
         <div className="shader"></div>
 
     </header>
